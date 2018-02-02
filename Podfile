@@ -10,6 +10,7 @@ target 'TumblrFeed' do
   # Add additional dependencies
   pod 'OAuthSwift', '~> 1.2.0'
   pod 'OAuthSwiftAlamofire'
+  pod 'AlamofireImage'
   
   target 'TumblrFeedTests' do
     inherit! :search_paths
