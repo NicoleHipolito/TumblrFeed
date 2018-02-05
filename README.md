@@ -23,7 +23,6 @@ The following **additional** user stories are implemented:
 From some reason I cannot defualt my app to Iphone7 and when it is in Iphone8 mode the app does not look that balanced, furthermore I would like to space out the images from each other.
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
-
 1. Where the outlets should go and to make sure to remove the outlet from the path not just the code.
 2. We could add the the name the of the post photo so maybe we could be able to search for a certain photo.
 
